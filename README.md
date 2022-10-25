@@ -1,4 +1,4 @@
-# Myproject
+# My project
 
 <h1> A machine learning algorithm, which is able to predict if a customer will buy again</h1>
 
