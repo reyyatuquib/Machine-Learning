@@ -9,9 +9,7 @@ The main idea is that if a customer has a low probability of coming back, there 
 
 The targets are a Boolean variable (so 0, or 1). We are taking a period of 2 years in our inputs, and the next 6 months as targets. So, in fact, we are predicting if: based on the last 2 years of activity and engagement, a customer will convert in the next 6 months. 6 months sounds like a reasonable time. If they don't convert after 6 months, chances are they've gone to a competitor or didn't like the Audiobook way of digesting information.
 
-All three set are balanced ( Train, Validation and Test) as we obtained mostly 50% of the result. 
-
-You can see the code on my project "Audio Books_preprocessed data.py"
+All three set are balanced ( Train, Validation and Test) as we obtained mostly 50% of the result. You can see the code on my project "Audio Books_preprocessed data.py"
 <img src="https://user-images.githubusercontent.com/115962820/197748237-4c05b4c5-6923-47ae-804c-f50596fee844.png" style="float:left;width:420px;height:auto;">
 
 
