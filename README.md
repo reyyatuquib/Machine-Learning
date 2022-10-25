@@ -12,7 +12,7 @@ The targets are a Boolean variable (so 0, or 1). We are taking a period of 2 yea
 All three set are balanced ( Train, Validation and Test) as we obtained mostly 50% of the result. 
 
 You can see the code on my project "Audio Books_preprocessed data.py"
-<img src="https://user-images.githubusercontent.com/115962820/197746193-29233ec0-6bc4-4043-938f-229939b19f42.png" style="float:left;width:420px;height:auto;">
+<img src="https://user-images.githubusercontent.com/115962820/197748237-4c05b4c5-6923-47ae-804c-f50596fee844.png" style="float:left;width:420px;height:auto;">
 
 
 
