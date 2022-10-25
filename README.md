@@ -14,6 +14,6 @@ All three set are balanced ( Train, Validation and Test) as we obtained mostly 5
 
 <img src="https://user-images.githubusercontent.com/115962820/197748237-4c05b4c5-6923-47ae-804c-f50596fee844.png" style="float:left;width:420px;height:auto;">
 
-The final accuracy of the model is 82.14% means the model can use to predict if the customer will buy again, It will return 1 or 0: 1 means a customer will buy again from the Audiobook company and 0 means they won't buy again. You can check the code on my project "Audio Books_Test result.py"
+The final accuracy of the model is 82.14% means the model can use to predict if the customer will buy again, It will return 1 or 0: 1 means a customer will buy again from the Audiobook company and 0 means they won't buy again. You can check the code on my project "Audio Books_Test accuracy.py"
 
-<img src="https://github.com/reyyatuquib/myproject/blob/main/assets/WIN_20211014_15_00_40_Pro.jpg" style="float:left;width:420px;height:auto;">
+<img src="https://user-images.githubusercontent.com/115962820/197753962-def7a72c-b916-4608-aba1-7801908ac0b7.png" style="float:left;width:420px;height:auto;">
